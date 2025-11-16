@@ -1,0 +1,1 @@
+The Smart Call Assistant is an Android-based application that analyzes your call logs and uses AI to generate insights like: 📊 “You had 8 calls today — 3 missed, 2 from top contacts.” ⚠️ “3 calls were likely spam.” 💬 “Would you like to call back your manager?” All the heavy lifting happens in the backend, which runs on Google Cloud Run.
