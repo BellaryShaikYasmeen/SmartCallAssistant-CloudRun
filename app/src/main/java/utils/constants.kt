@@ -1,4 +1,5 @@
 package utils
 
-class constants {
+object Constants {
+    const val BASE_URL = "https://invalid-url/"
 }

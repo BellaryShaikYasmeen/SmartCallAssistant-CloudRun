@@ -1,4 +1,9 @@
 package data.model
 
-class CallLogItem {
-}
+data class CallLogItem(
+    val name: String?,
+    val number: String,
+    val type: String,
+    val duration: Long,
+    val date: String
+)
